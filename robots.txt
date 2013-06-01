@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://programmerimprovethyself.github.io/programmerimprovethyself/sitemap.xml 
